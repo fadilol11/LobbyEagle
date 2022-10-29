@@ -1,2 +1,83 @@
 # LobbyEagle
 Simple Bungeecord server selector with full control!
+
+
+#config file
+
+title: "&c&lLobbies"
+rows: 1
+watch: true
+fillempty: false
+servers:
+    lobby1:
+        bungee: "ML-1"
+        name: "&aLobby 1"
+        shown: true
+        lore:
+        - "&fClick to connect to this server!"
+        icon: 399
+        slot: 1
+    lobby2:
+        bungee: "ML-2"
+        name: "&aLobby 2"
+        shown: true
+        lore:
+        - "&fClick to connect to this server!"
+        icon: 399
+        slot: 2
+    lobby3:
+        bungee: "ML-3"
+        name: "&aLobby 3"
+        shown: true
+        lore:
+        - "&fClick to connect to this server!"
+        icon: 399
+        slot: 3
+    lobby4:
+        bungee: "ML-4"
+        name: "&aLobby 4"
+        shown: true
+        lore:
+        - "&fClick to connect to this server!"
+        icon: 399
+        slot: 4
+    lobby5:
+        bungee: "ML-5"
+        name: "&aLobby 5"
+        shown: true
+        lore:
+        - "&fClick to connect to this server!"
+        icon: 399
+        slot: 5
+    lobby6:
+        bungee: "ML-6"
+        name: "&aLobby 6"
+        shown: true
+        lore:
+        - "&fClick to connect to this server!"
+        icon: 399
+        slot: 6
+    lobby7:
+        bungee: "ML-7"
+        name: "&aLobby 7"
+        shown: true
+        lore:
+        - "&fClick to connect to this server!"
+        icon: 399
+        slot: 7
+    lobby8:
+        bungee: "ML-8"
+        name: "&aLobby 8"
+        shown: true
+        lore:
+        - "&fClick to connect to this server!"
+        icon: 399
+        slot: 8
+    lobby9:
+        bungee: "ML-9"
+        name: "&aLobby 9"
+        shown: true
+        lore:
+        - "&fClick to connect to this server!"
+        icon: 399
+        slot: 9
