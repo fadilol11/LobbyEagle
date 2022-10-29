@@ -1,0 +1,9 @@
+main: mrfadi.Selector.Main
+name: LobbyEagle
+author: MrFadi
+version: 1.0
+commands:
+    lobbys:
+        description: Shows lobby gui
+        usage: /<command>
+
